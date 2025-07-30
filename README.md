@@ -14,7 +14,7 @@
 
 I code, learn, and iterate 👨‍💻
 - 👨‍💻 &nbsp; Programming and Web Development..
-- 🗄️ &nbsp; Mostly spends time with React Js, Express Js, and C++.
+- 🗄️ &nbsp; Mostly spends time with React Js, Express Js,Node Js, and C++.
 
 ### Talking about Personal Stuff:
 
